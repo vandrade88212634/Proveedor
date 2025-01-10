@@ -17,3 +17,4 @@ G:\Prueba Empleamos Temporales\Proveedor\Dominio.Servicio\obj\Debug\net8.0\Domin
 G:\Prueba Empleamos Temporales\Proveedor\Dominio.Servicio\obj\Debug\net8.0\refint\Dominio.Servicio.dll
 G:\Prueba Empleamos Temporales\Proveedor\Dominio.Servicio\obj\Debug\net8.0\Dominio.Servicio.pdb
 G:\Prueba Empleamos Temporales\Proveedor\Dominio.Servicio\obj\Debug\net8.0\ref\Dominio.Servicio.dll
+G:\Prueba Empleamos Temporales\Proveedor\Dominio.Servicio\obj\Debug\net8.0\Dominio.Servicio.sourcelink.json

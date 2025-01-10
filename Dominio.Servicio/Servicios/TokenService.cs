@@ -2,8 +2,8 @@
 using Dominio.Servicio.Servicios.Interfaces;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
+using MongoDB.Driver;
 using System;
-
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Linq;
@@ -15,13 +15,15 @@ namespace Dominio.Servicio.Servicios
 {
     public  class TokenService : ITokenService
     {
+         
         private readonly SymmetricSecurityKey _ssKey;
         private readonly IConfiguration _config;
-
+       
         public TokenService(IConfiguration config)
         {
             _config = config;
-            _ssKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(config["Token"]));
+                       
+            _ssKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Token:key"]));
 
         }
 

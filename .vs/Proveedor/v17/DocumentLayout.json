@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "G:\\Prueba Empleamos Temporales\\Proveedor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|solutionrelative:proveedor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9A806888-4AE0-4E27-9CD2-2B63EAC61C4A}|ProveedorTest\\ProveedorTest.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedortest\\controllertext\\proveedorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A806888-4AE0-4E27-9CD2-2B63EAC61C4A}|ProveedorTest\\ProveedorTest.csproj|solutionrelative:proveedortest\\controllertext\\proveedorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|solutionrelative:proveedor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{9A806888-4AE0-4E27-9CD2-2B63EAC61C4A}|ProveedorTest\\ProveedorTest.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedortest\\proveedorcontrollerintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A806888-4AE0-4E27-9CD2-2B63EAC61C4A}|ProveedorTest\\ProveedorTest.csproj|solutionrelative:proveedortest\\proveedorcontrollerintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C56BBE5-3C4E-479B-B88B-020BD420DFF5}|Infraestructura.Entity\\Infraestructura.Entity.csproj|g:\\prueba empleamos temporales\\proveedor\\infraestructura.entity\\entities\\proveedorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C56BBE5-3C4E-479B-B88B-020BD420DFF5}|Infraestructura.Entity\\Infraestructura.Entity.csproj|solutionrelative:infraestructura.entity\\entities\\proveedorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01C01C1-68C6-4B92-8551-CA3E5624BE8E}|Infraestructura.Core\\Infraestructura.Core.csproj|g:\\prueba empleamos temporales\\proveedor\\infraestructura.core\\context\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01C01C1-68C6-4B92-8551-CA3E5624BE8E}|Infraestructura.Core\\Infraestructura.Core.csproj|solutionrelative:infraestructura.core\\context\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C01C01C1-68C6-4B92-8551-CA3E5624BE8E}|Infraestructura.Core\\Infraestructura.Core.csproj|g:\\prueba empleamos temporales\\proveedor\\infraestructura.core\\repository\\proveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C01C01C1-68C6-4B92-8551-CA3E5624BE8E}|Infraestructura.Core\\Infraestructura.Core.csproj|solutionrelative:infraestructura.core\\repository\\proveedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A806888-4AE0-4E27-9CD2-2B63EAC61C4A}|ProveedorTest\\ProveedorTest.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedortest\\controllertext\\proveedorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A806888-4AE0-4E27-9CD2-2B63EAC61C4A}|ProveedorTest\\ProveedorTest.csproj|solutionrelative:proveedortest\\controllertext\\proveedorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{589B8C1D-7759-4592-8EED-2C00919726C0}|Dominio.Servicio\\Dominio.Servicio.csproj|g:\\prueba empleamos temporales\\proveedor\\dominio.servicio\\servicios\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B8C1D-7759-4592-8EED-2C00919726C0}|Dominio.Servicio\\Dominio.Servicio.csproj|solutionrelative:dominio.servicio\\servicios\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C56BBE5-3C4E-479B-B88B-020BD420DFF5}|Infraestructura.Entity\\Infraestructura.Entity.csproj|g:\\prueba empleamos temporales\\proveedor\\infraestructura.entity\\entities\\proveedorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C56BBE5-3C4E-479B-B88B-020BD420DFF5}|Infraestructura.Entity\\Infraestructura.Entity.csproj|solutionrelative:infraestructura.entity\\entities\\proveedorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{589B8C1D-7759-4592-8EED-2C00919726C0}|Dominio.Servicio\\Dominio.Servicio.csproj|g:\\prueba empleamos temporales\\proveedor\\dominio.servicio\\servicios\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{589B8C1D-7759-4592-8EED-2C00919726C0}|Dominio.Servicio\\Dominio.Servicio.csproj|solutionrelative:dominio.servicio\\servicios\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|solutionrelative:proveedor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedor\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|solutionrelative:proveedor\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedor\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|solutionrelative:proveedor\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedor\\proveedor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|solutionrelative:proveedor\\proveedor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A806888-4AE0-4E27-9CD2-2B63EAC61C4A}|ProveedorTest\\ProveedorTest.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedortest\\proveedortest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -31,12 +55,8 @@
       "RelativeMoniker": "D:0:0:{9A806888-4AE0-4E27-9CD2-2B63EAC61C4A}|ProveedorTest\\ProveedorTest.csproj|solutionrelative:proveedortest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedor\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|solutionrelative:proveedor\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedor\\proveedor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|solutionrelative:proveedor\\proveedor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|solutionrelative:proveedor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,18 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{589B8C1D-7759-4592-8EED-2C00919726C0}|Dominio.Servicio\\Dominio.Servicio.csproj|g:\\prueba empleamos temporales\\proveedor\\dominio.servicio\\dto\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{589B8C1D-7759-4592-8EED-2C00919726C0}|Dominio.Servicio\\Dominio.Servicio.csproj|solutionrelative:dominio.servicio\\dto\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C01C01C1-68C6-4B92-8551-CA3E5624BE8E}|Infraestructura.Core\\Infraestructura.Core.csproj|g:\\prueba empleamos temporales\\proveedor\\infraestructura.core\\context\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C01C01C1-68C6-4B92-8551-CA3E5624BE8E}|Infraestructura.Core\\Infraestructura.Core.csproj|solutionrelative:infraestructura.core\\context\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{589B8C1D-7759-4592-8EED-2C00919726C0}|Dominio.Servicio\\Dominio.Servicio.csproj|g:\\prueba empleamos temporales\\proveedor\\dominio.servicio\\servicios\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{589B8C1D-7759-4592-8EED-2C00919726C0}|Dominio.Servicio\\Dominio.Servicio.csproj|solutionrelative:dominio.servicio\\servicios\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{589B8C1D-7759-4592-8EED-2C00919726C0}|Dominio.Servicio\\Dominio.Servicio.csproj|g:\\prueba empleamos temporales\\proveedor\\dominio.servicio\\servicios\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{589B8C1D-7759-4592-8EED-2C00919726C0}|Dominio.Servicio\\Dominio.Servicio.csproj|solutionrelative:dominio.servicio\\servicios\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{589B8C1D-7759-4592-8EED-2C00919726C0}|Dominio.Servicio\\Dominio.Servicio.csproj|g:\\prueba empleamos temporales\\proveedor\\dominio.servicio\\dominio.servicio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -92,10 +100,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0AA2C442-D1B8-4C3A-82C2-CCCF1354EA5A}|Common.Utils\\Common.Utils.csproj|g:\\prueba empleamos temporales\\proveedor\\common.utils\\common.utils.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0AA2C442-D1B8-4C3A-82C2-CCCF1354EA5A}|Common.Utils\\Common.Utils.csproj|solutionrelative:common.utils\\common.utils.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedor\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|solutionrelative:proveedor\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{060F6FA0-028C-45AE-8946-3A9537FB09A9}|Proveedor\\Proveedor.csproj|g:\\prueba empleamos temporales\\proveedor\\proveedor\\handlers\\jwtconfigurationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -144,86 +148,182 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Program.cs",
-              "RelativeDocumentMoniker": "Proveedor\\Program.cs",
-              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Program.cs",
-              "RelativeToolTip": "Proveedor\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAFMAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T19:37:44.18Z",
-              "IsPinned": true
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProveedorTest.csproj",
-              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\ProveedorTest\\ProveedorTest.csproj",
-              "RelativeDocumentMoniker": "ProveedorTest\\ProveedorTest.csproj",
-              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\ProveedorTest\\ProveedorTest.csproj",
-              "RelativeToolTip": "ProveedorTest\\ProveedorTest.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-10T03:18:16.52Z"
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Program.cs",
+              "RelativeDocumentMoniker": "Proveedor\\Program.cs",
+              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Program.cs",
+              "RelativeToolTip": "Proveedor\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T19:37:44.18Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProveedorControllerTests.cs",
-              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\ProveedorTest\\ControllerText\\ProveedorControllerTests.cs",
-              "RelativeDocumentMoniker": "ProveedorTest\\ControllerText\\ProveedorControllerTests.cs",
-              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\ProveedorTest\\ControllerText\\ProveedorControllerTests.cs",
-              "RelativeToolTip": "ProveedorTest\\ControllerText\\ProveedorControllerTests.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Infraestructura.Core\\Context\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "Infraestructura.Core\\Context\\MongoDBSettings.cs",
+              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Infraestructura.Core\\Context\\MongoDBSettings.cs",
+              "RelativeToolTip": "Infraestructura.Core\\Context\\MongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T03:18:42.607Z"
+              "WhenOpened": "2025-01-09T20:05:25.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProveedorRepository.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Infraestructura.Core\\Repository\\ProveedorRepository.cs",
               "RelativeDocumentMoniker": "Infraestructura.Core\\Repository\\ProveedorRepository.cs",
               "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Infraestructura.Core\\Repository\\ProveedorRepository.cs",
               "RelativeToolTip": "Infraestructura.Core\\Repository\\ProveedorRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAANAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T23:12:51.383Z"
+              "WhenOpened": "2025-01-09T23:12:51.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProveedorEntity.cs",
+              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Infraestructura.Entity\\Entities\\ProveedorEntity.cs",
+              "RelativeDocumentMoniker": "Infraestructura.Entity\\Entities\\ProveedorEntity.cs",
+              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Infraestructura.Entity\\Entities\\ProveedorEntity.cs",
+              "RelativeToolTip": "Infraestructura.Entity\\Entities\\ProveedorEntity.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:35:38.61Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ProveedorControllerIntegration.cs",
+              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\ProveedorTest\\ProveedorControllerIntegration.cs",
+              "RelativeDocumentMoniker": "ProveedorTest\\ProveedorControllerIntegration.cs",
+              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\ProveedorTest\\ProveedorControllerIntegration.cs",
+              "RelativeToolTip": "ProveedorTest\\ProveedorControllerIntegration.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:27:47.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProveedorControllerTests.cs",
+              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\ProveedorTest\\ControllerText\\ProveedorControllerTests.cs",
+              "RelativeDocumentMoniker": "ProveedorTest\\ControllerText\\ProveedorControllerTests.cs",
+              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\ProveedorTest\\ControllerText\\ProveedorControllerTests.cs",
+              "RelativeToolTip": "ProveedorTest\\ControllerText\\ProveedorControllerTests.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAIwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:18:42.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\Servicios\\TokenService.cs",
+              "RelativeDocumentMoniker": "Dominio.Servicio\\Servicios\\TokenService.cs",
+              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\Servicios\\TokenService.cs",
+              "RelativeToolTip": "Dominio.Servicio\\Servicios\\TokenService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T23:20:47.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\Servicios\\LoginService.cs",
+              "RelativeDocumentMoniker": "Dominio.Servicio\\Servicios\\LoginService.cs",
+              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\Servicios\\LoginService.cs",
+              "RelativeToolTip": "Dominio.Servicio\\Servicios\\LoginService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwDMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:23:35.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\appsettings.json",
               "RelativeDocumentMoniker": "Proveedor\\appsettings.json",
               "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\appsettings.json",
               "RelativeToolTip": "Proveedor\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-09T19:36:21.519Z"
+              "WhenOpened": "2025-01-09T19:36:21.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "Proveedor\\Controllers\\ProveedorController.cs",
+              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "Proveedor\\Controllers\\ProveedorController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:45:07.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Proveedor\\Controllers\\LoginController.cs",
+              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Proveedor\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:40:31.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Proveedor.csproj",
+              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Proveedor.csproj",
+              "RelativeDocumentMoniker": "Proveedor\\Proveedor.csproj",
+              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Proveedor.csproj",
+              "RelativeToolTip": "Proveedor\\Proveedor.csproj",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T19:37:54.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Proveedor\\appsettings.Development.json",
               "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\appsettings.Development.json",
               "RelativeToolTip": "Proveedor\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-09T19:35:26.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\ProveedorTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "ProveedorTest\\UnitTest1.cs",
@@ -231,35 +331,25 @@
               "RelativeToolTip": "ProveedorTest\\UnitTest1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T03:17:36.997Z"
+              "WhenOpened": "2025-01-10T03:17:36.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\Servicios\\TokenService.cs",
-              "RelativeDocumentMoniker": "Dominio.Servicio\\Servicios\\TokenService.cs",
-              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\Servicios\\TokenService.cs",
-              "RelativeToolTip": "Dominio.Servicio\\Servicios\\TokenService.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAgwB8AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T23:20:47.663Z"
+              "DocumentIndex": 11,
+              "Title": "ProveedorTest.csproj",
+              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\ProveedorTest\\ProveedorTest.csproj",
+              "RelativeDocumentMoniker": "ProveedorTest\\ProveedorTest.csproj",
+              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\ProveedorTest\\ProveedorTest.csproj",
+              "RelativeToolTip": "ProveedorTest\\ProveedorTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-10T03:18:16.52Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Proveedor\\Controllers\\LoginController.cs",
-              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Proveedor\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAA2wB4AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T22:40:31.069Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "JwtConfigurationHandler.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Handlers\\JwtConfigurationHandler.cs",
               "RelativeDocumentMoniker": "Proveedor\\Handlers\\JwtConfigurationHandler.cs",
@@ -271,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "DependencyInyectionHandler.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Handlers\\DependencyInyectionHandler.cs",
               "RelativeDocumentMoniker": "Proveedor\\Handlers\\DependencyInyectionHandler.cs",
@@ -283,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "CustomGlobalRecoveryToken.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Handlers\\CustomGlobalRecoveryToken.cs",
               "RelativeDocumentMoniker": "Proveedor\\Handlers\\CustomGlobalRecoveryToken.cs",
@@ -295,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "CacheGlobalVariables.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Handlers\\CacheGlobalVariables.cs",
               "RelativeDocumentMoniker": "Proveedor\\Handlers\\CacheGlobalVariables.cs",
@@ -307,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "CustomExceptionAttribute.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Handlers\\CustomExceptionAttribute.cs",
               "RelativeDocumentMoniker": "Proveedor\\Handlers\\CustomExceptionAttribute.cs",
@@ -319,19 +409,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LoginService.cs",
-              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\Servicios\\LoginService.cs",
-              "RelativeDocumentMoniker": "Dominio.Servicio\\Servicios\\LoginService.cs",
-              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\Servicios\\LoginService.cs",
-              "RelativeToolTip": "Dominio.Servicio\\Servicios\\LoginService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T22:23:35.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ILoginService.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\Interfaces\\ILoginService.cs",
               "RelativeDocumentMoniker": "Dominio.Servicio\\Interfaces\\ILoginService.cs",
@@ -343,7 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "AutenticationDto.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\DTO\\AutenticationDto.cs",
               "RelativeDocumentMoniker": "Dominio.Servicio\\DTO\\AutenticationDto.cs",
@@ -355,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Utils.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Common.Utils\\Utils\\Utils.cs",
               "RelativeDocumentMoniker": "Common.Utils\\Utils\\Utils.cs",
@@ -367,7 +445,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Binnacle.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Common.Utils\\Utils\\Binnacle.cs",
               "RelativeDocumentMoniker": "Common.Utils\\Utils\\Binnacle.cs",
@@ -379,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Common.Utils.csproj",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Common.Utils\\Common.Utils.csproj",
               "RelativeDocumentMoniker": "Common.Utils\\Common.Utils.csproj",
@@ -391,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "RestService.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Common.Utils\\RestServices\\RestService.cs",
               "RelativeDocumentMoniker": "Common.Utils\\RestServices\\RestService.cs",
@@ -403,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
@@ -413,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "HttpResponseException.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Models\\General\\HttpResponseException.cs",
               "RelativeDocumentMoniker": "Proveedor\\Models\\General\\HttpResponseException.cs",
@@ -425,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Proveedor\\Models\\ErrorViewModel.cs",
@@ -437,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "MongoDBSettings.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Models\\MongoDBSettings.cs",
               "RelativeDocumentMoniker": "Proveedor\\Models\\MongoDBSettings.cs",
@@ -449,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "ResponseModel.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Models\\ResponseModel.cs",
               "RelativeDocumentMoniker": "Proveedor\\Models\\ResponseModel.cs",
@@ -461,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\Dependency\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "Dominio.Servicio\\Dependency\\DependencyInjection.cs",
@@ -473,19 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MongoDBSettings.cs",
-              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Infraestructura.Core\\Context\\MongoDBSettings.cs",
-              "RelativeDocumentMoniker": "Infraestructura.Core\\Context\\MongoDBSettings.cs",
-              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Infraestructura.Core\\Context\\MongoDBSettings.cs",
-              "RelativeToolTip": "Infraestructura.Core\\Context\\MongoDBSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T20:05:25.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ProveedorDto.cs",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\DTO\\ProveedorDto.cs",
               "RelativeDocumentMoniker": "Dominio.Servicio\\DTO\\ProveedorDto.cs",
@@ -497,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Dominio.Servicio.csproj",
               "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Dominio.Servicio\\Dominio.Servicio.csproj",
               "RelativeDocumentMoniker": "Dominio.Servicio\\Dominio.Servicio.csproj",
@@ -506,42 +572,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-09T19:39:36.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Proveedor.csproj",
-              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Proveedor.csproj",
-              "RelativeDocumentMoniker": "Proveedor\\Proveedor.csproj",
-              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Proveedor.csproj",
-              "RelativeToolTip": "Proveedor\\Proveedor.csproj",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAYAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-09T19:37:54.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProveedorController.cs",
-              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Controllers\\ProveedorController.cs",
-              "RelativeDocumentMoniker": "Proveedor\\Controllers\\ProveedorController.cs",
-              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Proveedor\\Controllers\\ProveedorController.cs",
-              "RelativeToolTip": "Proveedor\\Controllers\\ProveedorController.cs",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAAAG4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T03:45:07.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProveedorEntity.cs",
-              "DocumentMoniker": "G:\\Prueba Empleamos Temporales\\Proveedor\\Infraestructura.Entity\\Entities\\ProveedorEntity.cs",
-              "RelativeDocumentMoniker": "Infraestructura.Entity\\Entities\\ProveedorEntity.cs",
-              "ToolTip": "G:\\Prueba Empleamos Temporales\\Proveedor\\Infraestructura.Entity\\Entities\\ProveedorEntity.cs",
-              "RelativeToolTip": "Infraestructura.Entity\\Entities\\ProveedorEntity.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwAYAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T03:35:38.61Z"
             }
           ]
         }

@@ -68,3 +68,4 @@ G:\Prueba Empleamos Temporales\Proveedor\Proveedor\obj\Debug\net8.0\Proveedor.ge
 G:\Prueba Empleamos Temporales\Proveedor\Proveedor\obj\Debug\net8.0\ref\Proveedor.dll
 G:\Prueba Empleamos Temporales\Proveedor\Proveedor\obj\Debug\net8.0\Proveedor.MvcApplicationPartsAssemblyInfo.cs
 G:\Prueba Empleamos Temporales\Proveedor\Proveedor\bin\Debug\net8.0\swagger.xml
+G:\Prueba Empleamos Temporales\Proveedor\Proveedor\obj\Debug\net8.0\Proveedor.sourcelink.json
