@@ -1,0 +1,17 @@
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\bin\Debug\net8.0\Infraestructura.Core.deps.json
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\bin\Debug\net8.0\Infraestructura.Core.dll
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\bin\Debug\net8.0\Infraestructura.Core.pdb
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\bin\Debug\net8.0\Common.Utils.dll
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\bin\Debug\net8.0\Infraestructura.Entity.dll
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\bin\Debug\net8.0\Common.Utils.pdb
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\bin\Debug\net8.0\Infraestructura.Entity.pdb
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\obj\Debug\net8.0\Infraestructura.Core.csproj.AssemblyReference.cache
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\obj\Debug\net8.0\Infraestructura.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\obj\Debug\net8.0\Infraestructura.Core.AssemblyInfoInputs.cache
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\obj\Debug\net8.0\Infraestructura.Core.AssemblyInfo.cs
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\obj\Debug\net8.0\Infraestructura.Core.csproj.CoreCompileInputs.cache
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\obj\Debug\net8.0\Infraest.DE525ADA.Up2Date
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\obj\Debug\net8.0\Infraestructura.Core.dll
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\obj\Debug\net8.0\refint\Infraestructura.Core.dll
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\obj\Debug\net8.0\Infraestructura.Core.pdb
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Core\obj\Debug\net8.0\ref\Infraestructura.Core.dll

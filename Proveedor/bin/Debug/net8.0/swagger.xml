@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Proveedor</name>
+    </assembly>
+    <members>
+        <member name="M:Proveedor.Controllers.LoginController.Autentication(Dominio.Servicio.DTO.AutenticaDto)">
+            <summary>
+            Login para obtener el Token
+            </summary>
+            <param name="user">Objeto User</param>
+            <returns>El token</returns>
+        </member>
+        <member name="M:Proveedor.Controllers.ProveedorController.Create(Infraestructura.Entity.Entities.ProveedorEntity)">
+            <summary>
+            Crear Proveedor
+            </summary>
+            <param name="proveedor">Objeto datos del proveedor</param>
+            <returns>Proveedor creado</returns>
+        </member>
+        <member name="M:Proveedor.Controllers.ProveedorController.GetAll">
+            <summary>
+            Lista los  Proveedores
+            </summary>
+            <returns>Lista de Proveedores</returns>
+        </member>
+        <member name="M:Proveedor.Controllers.ProveedorController.GetById(System.Int32)">
+             <summary>
+            Lista proveedor por id
+             </summary>
+             <param name="id">Id del proveedor</param>
+             <returns>Proveedor consultado</returns>
+        </member>
+        <member name="M:Proveedor.Controllers.ProveedorController.Update(System.Int32,Infraestructura.Entity.Entities.ProveedorEntity)">
+            <summary>
+            Editar Proveedor
+            </summary>
+            <param name="id">Id Del proveedor a Modificar</param>
+            <returns>Proveedor Editado</returns>
+        </member>
+        <member name="M:Proveedor.Controllers.ProveedorController.Delete(System.Int32)">
+            <summary>
+            Elimina  Proveedor
+            </summary>
+            <param name="proveedor">Objeto datos del proveedor</param>
+            <returns>Proveedor Eliminado</returns>
+        </member>
+        <member name="M:planeador.seguridad.webapi.Handlers.CustomExceptionAttribute.OnException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)">
+            <summary>
+            Metodo encargado de capturar todas las Excepciones del proyecto,
+            Se debe agregar el decorador a cada controller [TypeFilter(typeof(CustomExceptionHandler))]
+            </summary>
+            <param name="context"> Parametro donde queda capturada la Exception </param>
+        </member>
+        <member name="M:planeador.seguridad.webapi.Handlers.CustomExceptionAttribute.SaveException(Microsoft.AspNetCore.Mvc.Filters.ExceptionContext)">
+            <summary>
+            This method that save a exception log in data base
+            </summary>
+            <param name="context"></param>
+        </member>
+    </members>
+</doc>

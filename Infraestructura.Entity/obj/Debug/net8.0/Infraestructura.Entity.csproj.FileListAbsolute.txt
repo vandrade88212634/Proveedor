@@ -1,0 +1,15 @@
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\obj\Debug\net8.0\Infraestructura.Entity.csproj.AssemblyReference.cache
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\obj\Debug\net8.0\Infraestructura.Entity.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\obj\Debug\net8.0\Infraestructura.Entity.AssemblyInfoInputs.cache
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\obj\Debug\net8.0\Infraestructura.Entity.AssemblyInfo.cs
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\obj\Debug\net8.0\Infraestructura.Entity.csproj.CoreCompileInputs.cache
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\bin\Debug\net8.0\Infraestructura.Entity.deps.json
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\bin\Debug\net8.0\Infraestructura.Entity.dll
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\bin\Debug\net8.0\Infraestructura.Entity.pdb
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\bin\Debug\net8.0\Common.Utils.dll
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\bin\Debug\net8.0\Common.Utils.pdb
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\obj\Debug\net8.0\Infraest.EBBB715F.Up2Date
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\obj\Debug\net8.0\Infraestructura.Entity.dll
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\obj\Debug\net8.0\refint\Infraestructura.Entity.dll
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\obj\Debug\net8.0\Infraestructura.Entity.pdb
+G:\Prueba Empleamos Temporales\Proveedor\Infraestructura.Entity\obj\Debug\net8.0\ref\Infraestructura.Entity.dll
